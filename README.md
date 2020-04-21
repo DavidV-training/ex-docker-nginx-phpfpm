@@ -29,4 +29,5 @@ et renvoyer un "phpinfo()"" en réponse
 
 ## Attendus :
 - un fichier Dockerfile
+- un fichier supervisord.conf
 - un fichier exo.sh avec la commande de build et la commande de run
