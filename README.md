@@ -3,7 +3,7 @@
 A) Ecrire le Dockerfile
 - basé sur alpine (latest)
 - qui installe (apk add) les paquets suivants : nginx, php7, php7-fpm,
-  supervisord
+  supervisor
 - qui injecte dans le conteneur les fichiers suivants :
   - default.conf => /etc/nginx/conf.d/
   - nginx.conf => /etc/nginx/
